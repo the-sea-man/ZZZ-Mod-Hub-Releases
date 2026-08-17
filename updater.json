@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
-  "notes": "Initial Release of ZZZ Mod Hub - Beta",
-  "pub_date": "2026-07-21T00:00:00Z",
+  "version": "1.0.1",
+  "notes": "Added Language Hub, automatic base reference export, fixed mod sorting for new characters, and ignored generic normal maps and a lot of new stuff.",
+  "pub_date": "2026-08-17T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVkR0d2JKR0EzQmJpNlgvY0l4MzAwZXhrL0hIQU1qQzJybjRTcXhRR25VTWhYYjdIN2lSQTNlc1BGMWNkVDZyVXJZRDZlaWZteUNwbkpWSitKbS8rQzd3L3JQU283YXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Njc5MjM5CWZpbGU6WlpaIE1vZCBIdWJfMS4wLjBfeDY0LXNldHVwLmV4ZQprbFNkcHE4WnRaYjNmMktHYS9mWnNtWjBtZ1g3NTNCc1BFQWIzZXR3K3I5R3RqejlTS0taTlhTYi9JRnNFU21mNDJsWFlvTFBScFlITGNxZzZ4aHBEZz09Cg==",
-      "url": "https://github.com/the-sea-man/ZZZ-Mod-Hub-Releases/releases/download/v1.0.0/ZZZ.Mod.Hub_1.0.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVkR0d2JKR0EzQlZrTElGckRKVWVzd3FlUHJoZmRMNHRVb3krWWk1N1B1Q0JaQlVDUzNUVTdOUVZrTUVNcUVzaHU4ZGZ3MitQU0dGcmNpdTlIZWo0aG5lYlJYTDBWN1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTQzNjU3CWZpbGU6WlpaIE1vZCBIdWJfMS4wLjFfeDY0LXNldHVwLmV4ZQpKTnpEcHl4cy9EWUNvSzUybWhRVWZqVmZjQ2dIOXhZVnJBdkpHMlBzSjg4NUZsWWx2S2hnNXVkY3gxS3IrREhOaU1jLy9EVXNKZTYybTZ3ZVdjOUdDdz09Cg==",
+      "url": "https://github.com/the-sea-man/ZZZ-Mod-Hub-Releases/releases/download/v1.0.1/ZZZ.Mod.Hub_1.0.1_x64-setup.exe"
     }
   }
 }
