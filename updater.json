@@ -1,11 +1,11 @@
 {
-  "version": "1.0.2",
-  "notes": "Seamless single-user auto-update pipeline, automatic legacy installation cleanup, and desktop shortcut auto-repair.",
-  "pub_date": "2026-08-17T09:40:00Z",
+  "version": "1.1.0",
+  "notes": "ZZZ Mod Hub v1.1.0 Release:\n- Interactive Download History with real-time speed, ETA & folder tracking\n- 'Page Updated' Activity Inspector with automatic backup system\n- Dual-Gate UI Mod Protection & Character Recolor sorting\n- Performance Boost, Low Performance Mode & 8K Texture OOM Fix\n- Dynamic Root UI Scaling & Quick Presets\n- Dedicated Troubleshooting & Quick Fixes Guide",
+  "pub_date": "2026-08-30T01:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVkR0d2JKR0EzQlcyb1haZW11Zlgxdk1weTFzY1JsNlB6TGVHM3VaWHViNDY1MkR5VVF0ZmNwMnl2d1RSNm1oNTlpejdPcUhDL0FlSUN3bDdJdjI2cEpUWGtEbHZQQWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTcwODU1CWZpbGU6WlpaIE1vZCBIdWJfMS4wLjJfeDY0LXNldHVwLmV4ZQpIZkl2aHlrajlRdVNWWjJXd0Qwclc5L0lLR012bEJubzBDbWpmZUtFRzUwVEZ0ZW0zbktZKzJVR2UwK0ZUdXBxc2RPVm9zMGVPcVRPQXk0V3lpM0VDZz09Cg==",
-      "url": "https://github.com/the-sea-man/ZZZ-Mod-Hub-Releases/releases/download/v1.0.2/ZZZ.Mod.Hub_1.0.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVkR0d2JKR0EzQllwWU51NHNHNHVHTVJrWkc1MDN6SEQwYVhZbnE5RXlVazlYM1grbGMxbDZiV3E0VUV5VXBnRzl2enhVV2FTdWVoVGRLcVliVGgrbTZIQnc0aVA0dndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDU2NzgxCWZpbGU6WlpaIE1vZCBIdWJfMS4xLjBfeDY0LXNldHVwLmV4ZQpoa3IxS2g3QVpNVlBrOGFSZ0dFejFXR1dvamFKb3NCT2ZxRXl4alhOekdsYXJnQXd5YXlURkUzQjlXZkZ6L0xBVnFUZUsyemZmb3o5ZjducU1Fc1NEdz09Cg==",
+      "url": "https://github.com/the-sea-man/ZZZ-Mod-Hub-Releases/releases/download/v1.1.0/ZZZ.Mod.Hub_1.1.0_x64-setup.exe"
     }
   }
 }
