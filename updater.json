@@ -1,11 +1,11 @@
 {
-  "version": "1.1.1",
-  "notes": "ZZZ Mod Hub v1.1.1: Interactive Troubleshooting Hub, Mod Fixer Preview Tables, Mod Splitter Polish, GameBanana Pagination Fix, and Phase 2 UI Performance Boost.",
-  "pub_date": "2026-08-30T22:00:00Z",
+  "version": "1.2.0",
+  "notes": "\u26a1 ZZZ Mod Hub v1.2.0: Anti-Fail GameBanana Downloader with Cloudflare CDN Failover, 4x Multi-Threaded Chunk Acceleration, 3D Model Viewer Camera Presets, and Skeleton Loading.",
+  "pub_date": "2026-09-03T21:51:53Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVkR0d2JKR0EzQmRydWs2Y21FKzBiMzRQYWp5eFBLSDlCMzhjekdJZ2drZ3pESnZTMDhyajJxNnhKT1MwZW1qWEhvWXY3akptb09RYlhuNTl5Q3hZWjFuZGFvc2w2bndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MjExNDE5CWZpbGU6WlpaIE1vZCBIdWJfMS4xLjFfeDY0LXNldHVwLmV4ZQpUeG5GNU9MSDJKYXRlRWVLazlHYU10S1pmcE5KdFByYVdzTkZ2bW9YeTRiallyb0lZK3RtNkRWemwrNHVmSzkwckg1YXViTFVoejAzWlQ3Z3NNNzZDdz09Cg==",
-      "url": "https://github.com/the-sea-man/ZZZ-Mod-Hub-Releases/releases/download/v1.1.1/ZZZ.Mod.Hub_1.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVkR0d2JKR0EzQmVoTnVVZXVWK3Z6Qm56RGZoMjFOYWcwTmQ4cHZ6NCtlU1JKNjZFb0pGMmovWjNKczhoZzBpVUk3dWVOM0Z0ZGRmZitRVDByNzNsUUh0R1VwY2xOWXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDcxMzAxCWZpbGU6WlpaIE1vZCBIdWJfMS4yLjBfeDY0LXNldHVwLmV4ZQpVZG9yYm05QmVhdjQ2Y0ZWYXViMG9oa1FHTFI3bU1YV3JnNGgzQzdnU25qNE1OKzBoSUZ6K0R1Z01SZEs5TEpqd3RqazIvanI3TlMzR2h0KzN0b3BBZz09Cg==",
+      "url": "https://github.com/the-sea-man/ZZZ-Mod-Hub-Releases/releases/download/v1.2.0/ZZZ.Mod.Hub_1.2.0_x64-setup.exe"
     }
   }
 }
