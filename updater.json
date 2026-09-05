@@ -1,11 +1,11 @@
 {
-  "version": "1.2.0",
-  "notes": "\u26a1 ZZZ Mod Hub v1.2.0: Anti-Fail GameBanana Downloader with Cloudflare CDN Failover, 4x Multi-Threaded Chunk Acceleration, 3D Model Viewer Camera Presets, and Skeleton Loading.",
-  "pub_date": "2026-09-03T21:51:53Z",
+  "version": "1.2.1",
+  "notes": "\ud83d\udee0\ufe0f ZZZ Mod Hub v1.2.1: Mod toggle state persistence with ZZMI namespace support, GameBanana multi-mod query chunking, batch actions polish, and safe storage hardening.",
+  "pub_date": "2026-09-05T22:46:16Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVkR0d2JKR0EzQmVoTnVVZXVWK3Z6Qm56RGZoMjFOYWcwTmQ4cHZ6NCtlU1JKNjZFb0pGMmovWjNKczhoZzBpVUk3dWVOM0Z0ZGRmZitRVDByNzNsUUh0R1VwY2xOWXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDcxMzAxCWZpbGU6WlpaIE1vZCBIdWJfMS4yLjBfeDY0LXNldHVwLmV4ZQpVZG9yYm05QmVhdjQ2Y0ZWYXViMG9oa1FHTFI3bU1YV3JnNGgzQzdnU25qNE1OKzBoSUZ6K0R1Z01SZEs5TEpqd3RqazIvanI3TlMzR2h0KzN0b3BBZz09Cg==",
-      "url": "https://github.com/the-sea-man/ZZZ-Mod-Hub-Releases/releases/download/v1.2.0/ZZZ.Mod.Hub_1.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVkR0d2JKR0EzQlp6R1Z0ZHhmT01tQkNLdytlT1Y3T21nS09jRW9GbU9xZFNVQnFCQytBYUtUMjVVMGZlNmhZZ3VDZDZkd0NESFdQWEJrNm5wcUNPS1cwQ1JZQU9WRmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjQ4Mzc1CWZpbGU6WlpaIE1vZCBIdWJfMS4yLjFfeDY0LXNldHVwLmV4ZQpNc3JVbTBCU1Z2U2wvc3R6RmVqVEdsMWhCQlNSclpLQ3ViaXhrRXNaQXIzd2ZSakVIVVplZlRuWFROcU14bUNBM2Y1ejJiaVZaR1k0SjhqOThGbjdEdz09Cg==",
+      "url": "https://github.com/the-sea-man/ZZZ-Mod-Hub-Releases/releases/download/v1.2.1/ZZZ.Mod.Hub_1.2.1_x64-setup.exe"
     }
   }
 }
